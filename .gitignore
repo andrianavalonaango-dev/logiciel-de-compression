@@ -47,3 +47,4 @@ Desktop.ini
 # Temporary outputs
 *.mdc
 *_restored.*
+.scripts
